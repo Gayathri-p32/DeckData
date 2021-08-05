@@ -2,21 +2,111 @@
     {
         "id": 1,
         "name":"ABCDE"
+        "card":[
+            {
+                "id": 1,
+                "name":"D1-C1"
+            },
+            {
+                "id": 2,
+                "name":"D1-C2"
+            },
+            {
+                "id": 3,
+                "name":"D1-C3"
+            },
+            {
+                "id": 4,
+                "name":"D1-C4"
+            }
+        ]
     },
     {
         "id": 2,
         "name":"AAAAA"
+        "card":[
+            {
+                "id": 1,
+                "name":"D2-C1"
+            },
+            {
+                "id": 2,
+                "name":"D2-C2"
+            },
+            {
+                "id": 3,
+                "name":"D2-C3"
+            },
+            {
+                "id": 4,
+                "name":"D2-C4"
+            }
+        ]
     },
     {
         "id": 3,
         "name":"BBBBE"
+        "card":[
+            {
+                "id": 1,
+                "name":"D1-C1"
+            },
+            {
+                "id": 2,
+                "name":"D1-C2"
+            },
+            {
+                "id": 3,
+                "name":"D1-C3"
+            },
+            {
+                "id": 4,
+                "name":"D1-C4"
+            }
+        ]
     },
     {
         "id": 4,
         "name":"CCCCC"
+        "card":[
+            {
+                "id": 1,
+                "name":"D1-C1"
+            },
+            {
+                "id": 2,
+                "name":"D1-C2"
+            },
+            {
+                "id": 3,
+                "name":"D1-C3"
+            },
+            {
+                "id": 4,
+                "name":"D1-C4"
+            }
+        ]
     },
     {
         "id": 5,
         "name":"EEEEE"
+        "card":[
+            {
+                "id": 1,
+                "name":"D1-C1"
+            },
+            {
+                "id": 2,
+                "name":"D1-C2"
+            },
+            {
+                "id": 3,
+                "name":"D1-C3"
+            },
+            {
+                "id": 4,
+                "name":"D1-C4"
+            }
+        ]
     }
 ]
